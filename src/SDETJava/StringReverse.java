@@ -1,4 +1,4 @@
-package test_project;
+package SDETJava;
 
 public class StringReverse {
     public static void main(String[] args) {
